@@ -1,4 +1,8 @@
-## Hi there 👋
+## Tobias Colvin - Backend Software Engineer
+- Computer science junior at the University of Arizona
+- I enjoy participating in hackathons and game jams
+- I'm currently learning how to mod Minecraft with Fabric
+- How to reach me: email [tobiasderwentcolvin@gmail.com](tobiasderwentcolvin@gmail.com)
 
 <!--
 **tobiasjdcolvin/tobiasjdcolvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
