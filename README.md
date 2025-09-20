@@ -1,6 +1,5 @@
-## Tobias Colvin - Computer Science Student
-- Computer science junior at the University of Arizona
-- Actively seeking internships and part-time roles
-- Enjoy participating in hackathons and game jams, interested in CTFs
+## Tobias Colvin - Computer Science Student and IT Professional
+- Computer science junior at The University of Arizona
+- Desktop Support Specialist at Eller College of Management
 - How to reach me: email [tobiasderwentcolvin@gmail.com](tobiasderwentcolvin@gmail.com)
 
